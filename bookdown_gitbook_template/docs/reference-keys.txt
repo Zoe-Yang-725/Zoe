@@ -1,0 +1,12 @@
+welcome
+quick-start
+structure
+introduction
+purpose
+example-summary-table
+workflow
+typical-analysis-workflow
+example-simple-plot
+reporting
+figures-and-captions
+example-inline-math-and-block-math

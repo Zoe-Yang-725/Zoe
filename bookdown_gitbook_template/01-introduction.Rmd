@@ -1,0 +1,13 @@
+# Introduction
+
+## Purpose
+
+Use this page to introduce the project: goals, context, and key resources.
+
+## Example: summary table
+
+```{r}
+x <- rnorm(100)
+summary(x)
+```
+

@@ -1,0 +1,15 @@
+# Reporting
+
+## Figures and captions
+
+You can include images (PNG/JPG) under `assets/` and reference them here.
+
+## Example: inline math and block math
+
+Inline: $\alpha + \beta$.
+
+Block:
+
+$$
+y_t = \alpha + \beta x_t + \varepsilon_t.
+$$

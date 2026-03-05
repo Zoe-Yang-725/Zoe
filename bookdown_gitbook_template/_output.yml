@@ -1,0 +1,9 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      collapse: section
+      before: |
+        <li class="book-title"><a href="./">Project Documentation</a></li>
+    download: null
+    edit: null

@@ -1,0 +1,26 @@
+---
+title: "Project Documentation"
+author: "Your Name"
+site: bookdown::bookdown_site
+documentclass: book
+---
+
+# Welcome
+
+This is a reusable **bookdown (gitbook style)** documentation website template.
+
+- Left sidebar navigation (collapsible)
+- Search box (built-in)
+- Right-hand "On this page" table of contents
+- R code chunks, figures, and tables
+
+## Quick start
+
+```{r}
+# A tiny example to confirm your setup
+summary(cars)
+```
+
+## Structure
+
+Add new pages by creating new `*.Rmd` files and listing them in `_bookdown.yml`.
